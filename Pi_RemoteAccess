@@ -10,3 +10,4 @@ enable SSH settings under "interface" option
 
 Access from Windows Machine-
 Download and Open Putty
+enter IP address, user id (default is pi) and password (default is -raspberry)
