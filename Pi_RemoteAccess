@@ -7,3 +7,6 @@ If connect via WiFi check for inet address under wlan setting
 Check SSH settings-
 This setting can be checked via start >> Preverences >> Respberry Pi configuration OR in terminal window type- sudo raspi -config
 enable SSH settings under "interface" option
+
+Access from Windows Machine-
+Download and Open Putty
