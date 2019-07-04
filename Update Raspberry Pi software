@@ -1,0 +1,5 @@
+open terminal window
+type- sudo apt-get update
+
+once installation is done, upgrade it
+type- sudo apt-get upgrade
