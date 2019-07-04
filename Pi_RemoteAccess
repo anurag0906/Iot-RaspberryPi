@@ -1,0 +1,4 @@
+Remotely accessing Raspberry Pi
+
+
+open terminal window and check for IP address, using command- ifconfig
