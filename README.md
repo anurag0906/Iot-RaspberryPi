@@ -17,4 +17,8 @@ https://www.amazon.com/gp/product/B07KBWVJMP/ref=ppx_yo_dt_b_asin_title_o02_s00?
 # Reference-
 Passive infrared-PIR motion sensors-https://projects.raspberrypi.org/en/projects/parent-detector/3
 
+# Shortcuts
+To Run py program- F5
+To stop py program- ctrl +C
+
 
